@@ -94,8 +94,8 @@ No installation required.
 
 ## 👨‍💻 Author
 
-Your Name  
-GitHub: https://github.com/your-username  
+Ihsan K
+GitHub: https://github.com/ihsanshanu03-pixel  
 
 ---
 
