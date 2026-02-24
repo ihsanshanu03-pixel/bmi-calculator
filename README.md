@@ -62,9 +62,7 @@ BMI = weight (kg) / (height (m) × height (m))
 
 ## 📸 Preview
 
-(Add a screenshot here after uploading to GitHub)
-
-Example:
+![alt text](image.png)
 
 
 ---
