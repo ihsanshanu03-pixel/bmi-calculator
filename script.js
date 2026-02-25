@@ -2,7 +2,7 @@ const bmiCalculator = () => {
     const heightM = document.getElementById("height").value / 100;
     const weight = document.getElementById("weight").value;
 
-    const result = weight / (heightM * 2)
+    const result = weight / (heightM * heightM)
 
     const resultN = document.getElementById("result")
 
